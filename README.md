@@ -4,7 +4,7 @@
 
 🇧🇷 Bem-vindos ao meu GitHub! Sou um desenvolvedor apaixonado por criar jogos e resolver problemas com código. Sou formado em Jogos Digitais pela FIAP e passo a maior parte do meu tempo botando a mão na massa com **C# e Unity**, criando desde jogos de combate e sobrevivência zumbi até simuladores 2.5D. 
 
-Quando não estou codando ou estudando, provavelmente estou jogando algum AAA, jogando um LoLzinho ou acompanhando coisas da Marvel.
+
 
 🇺🇸 **Hey everyone!** Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with **C# and Unity**, building everything from action and zombie survival games to 2.5D simulators.
 
