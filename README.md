@@ -14,7 +14,7 @@ Quando não estou codando ou estudando, provavelmente estou jogando algum AAA, j
 
 - 🎓 **Formação:** Tecnólogo em Jogos Digitais pela FIAP (Concluído no final de 2025).
 - 💻 **Foco atual:** Criando e publicando jogos indie e aprimorando minha lógica de programação com C#.
-- 🚀 **Subindo de nível:** Estudando **Python**, mexendo um pouco com front-end (HTML/CSS) e começando a olhar para Banco de Dados.
+- 🚀 **Subindo de nível:** Estudando **C#**, mexendo um pouco com front-end (HTML/CSS) e começando a olhar para Banco de Dados.
 - 🕹️ **Meus Jogos:** Todos os meus projetos jogáveis estão lá no meu [Itch.io](https://lucassodev.itch.io/)!
 
 ## 🛠️ Minhas Ferramentas (Tech Stack)
