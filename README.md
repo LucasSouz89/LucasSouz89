@@ -49,29 +49,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## 💻 Meu Setup (My Workstation)
-**Hardware Base:**
-- **CPU:** AMD Ryzen 5 5600
-- **GPU:** ZOTAC NVIDIA GeForce RTX 3060 (12GB)
-- **RAM:** 16GB DDR4 3000MHz
-- **Placa Mãe:** ASUS Prime B450M Gaming/BR
-- **Refrigeração:** Air Cooler Gamemax Gamma 500
-- **Fonte:** MSI 650W Bronze
-- **Gabinete:** Cooler Master MasterBox Q300L
-
-**Armazenamento:**
-- 1TB SSD M.2 Kingston NVMe 3.0
-- 240GB SSD SATA Kingston
-- 3TB HD Seagate
-
-**Periféricos & Telas:**
-- **Monitores:** LG UltraGear 24" (180Hz) | Samsung T350 22" (75Hz)
-- **Áudio:** Headset HyperX Cloud Stinger Core Wireless
-- **Webcam:** Logitech Brio 100
-- **Mousepad:** Husky Black (180x)
-- **Cadeira:** Draxen DN3
-- **Mobile Test Device:** Samsung Galaxy A56 5G (8GB RAM / 128GB)
-
 ## 📫 Onde me encontrar (Let's Connect)
 Bora trocar uma ideia sobre código, games ou oportunidades!
 
