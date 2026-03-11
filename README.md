@@ -1,3 +1,48 @@
+# Fala, pessoal! Sou o Lucas 👋
+
+
+### Desenvolvedor de Jogos | C# | Unity | Unreal | FIAP
+
+
+🇧🇷 Bem-vindos ao meu GitHub! Sou um desenvolvedor apaixonado por criar jogos e resolver problemas com código. Sou formado em Jogos Digitais pela FIAP e passo a maior parte do meu tempo botando a mão na massa com **C# e Unity**, criando desde jogos de combate e sobrevivência zumbi até simuladores 2.5D. 
+
+
+🇺🇸 **Hey everyone!** Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with **C# and Unity**, building everything from action and zombie survival games to 2.5D simulators.
+
+
+---
+
+
+## 👨‍💻 O que eu ando fazendo (What I'm up to)
+
+
+- 🎓 **Formação:** Tecnólogo em Jogos Digitais pela FIAP (Concluído no final de 2025).
+
+- 💻 **Foco atual:** Criando e publicando jogos indie e aprimorando minha lógica de programação com C#.
+
+- 🚀 **Subindo de nível:** Estudando **C#**, mexendo um pouco com front-end (HTML/CSS) e começando a olhar para Banco de Dados.
+
+- 🕹️ **Meus Jogos:** Todos os meus projetos jogáveis estão lá no meu [Itch.io](https://lucassodev.itch.io/)!
+
+
+## 🛠️ Minhas Ferramentas (Tech Stack)
+
+
+**Linguagens e Engines**
+
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
+
+</p>
+
+
 **Design, Arte 3D/2D & IA**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" width="48" height="48" alt="Maya" />
