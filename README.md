@@ -19,56 +19,56 @@
 
 **Linguagens e Engines**
 <p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
 </p>
 
 **Design, Arte 3D/2D & IA**
 <p align="left">
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-37CEE2?style=for-the-badge&logo=autodesk-maya&logoColor=white" alt="Maya" />
-  <img src="https://img.shields.io/badge/Autodesk%20Mudbox-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Mudbox" />
-  <img src="https://img.shields.io/badge/Substance%20Painter-8A2BE2?style=for-the-badge&logo=adobe-substance-3d-painter&logoColor=white" alt="Substance Painter" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Krita-205EA6?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" width="48" height="48" alt="Maya" />
+  <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="48" height="48" alt="Mudbox" />
+  <img src="https://cdn.simpleicons.org/adobe/8A2BE2" width="48" height="48" alt="Substance Painter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Photoshop" />
+  <img src="https://cdn.simpleicons.org/krita/205EA6" width="48" height="48" alt="Krita" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
 </p>
 
 **Web**
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
 </p>
 
 **IDEs e Versionamento**
 <p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="48" height="48" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 </p>
 
 ## 📫 Onde me encontrar (Let's Connect)
 Bora trocar uma ideia sobre código, games ou oportunidades!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucassgd/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/lucassgd/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="https://lucassodev.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  <a href="https://lucassodev.itch.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="48" height="48" alt="Itch.io" />
   </a>
-  <a href="https://steamcommunity.com/id/souzajogos/">
-    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <a href="https://steamcommunity.com/id/souzajogos/" target="_blank">
+    <img src="https://cdn.simpleicons.org/steam/000000" width="48" height="48" alt="Steam" />
   </a>
   <a href="https://www.youtube.com/@LucasSouza-fx9uq" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube" />
   </a>
   <a href="mailto:lucas.ss7@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="48" height="48" alt="Outlook" />
   </a>
-  <a href="https://discordapp.com/users/souzajogos">
-    <img src="https://img.shields.io/badge/Discord-souzajogos-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: souzajogos" />
+  <a href="https://discordapp.com/users/souzajogos" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" />
   </a>
 </p>
