@@ -53,22 +53,10 @@
 Bora trocar uma ideia sobre código, games ou oportunidades!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucassgd/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="https://lucassodev.itch.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="48" height="48" alt="Itch.io" />
-  </a>
-  <a href="https://steamcommunity.com/id/souzajogos/" target="_blank">
-    <img src="https://cdn.simpleicons.org/steam/000000" width="48" height="48" alt="Steam" />
-  </a>
-  <a href="https://www.youtube.com/@LucasSouza-fx9uq" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube" />
-  </a>
-  <a href="mailto:lucas.ss7@outlook.com">
-    <img src="https://private-user-images.githubusercontent.com/184878092/561636571-7f7bca1c-c714-49bc-abb8-a8c9dfeef0e9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMzg2MzUsIm5iZiI6MTc3MzIzODMzNSwicGF0aCI6Ii8xODQ4NzgwOTIvNTYxNjM2NTcxLTdmN2JjYTFjLWM3MTQtNDliYy1hYmI4LWE4YzlkZmVlZjBlOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxMVQxNDEyMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNTAyNjA2MDYxZWY1OTliNjEwODBmZGM4Y2E4NWQwNmM0OGY3YzM4MmY5Nzg2YmI4NWRhYjFhZTZhZTljYzlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oxzLX2vvMpyWOkU0_14rHXq-yvGaXeWwEhENDjakKYY" width="48" height="48" alt="Outlook" />
-  </a>
-  <a href="https://discordapp.com/users/souzajogos" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" />
-  </a>
+  <a href="https://www.linkedin.com/in/lucassgd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" /></a>
+  <a href="https://lucassodev.itch.io/" target="_blank"><img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="48" height="48" alt="Itch.io" /></a>
+  <a href="https://steamcommunity.com/id/souzajogos/" target="_blank"><img src="https://cdn.simpleicons.org/steam/000000" width="48" height="48" alt="Steam" /></a>
+  <a href="https://www.youtube.com/@LucasSouza-fx9uq" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube" /></a>
+  <a href="mailto:lucas.ss7@outlook.com"><img src="https://private-user-images.githubusercontent.com/184878092/561636571-7f7bca1c-c714-49bc-abb8-a8c9dfeef0e9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyMzg2MzUsIm5iZiI6MTc3MzIzODMzNSwicGF0aCI6Ii8xODQ4NzgwOTIvNTYxNjM2NTcxLTdmN2JjYTFjLWM3MTQtNDliYy1hYmI4LWE4YzlkZmVlZjBlOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxMVQxNDEyMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNTAyNjA2MDYxZWY1OTliNjEwODBmZGM4Y2E4NWQwNmM0OGY3YzM4MmY5Nzg2YmI4NWRhYjFhZTZhZTljYzlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oxzLX2vvMpyWOkU0_14rHXq-yvGaXeWwEhENDjakKYY" width="48" height="48" alt="Outlook" /></a>
+  <a href="https://discordapp.com/users/souzajogos" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" /></a>
 </p>
