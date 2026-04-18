@@ -17,30 +17,35 @@
 
 ---
 
-## 🛠️ Minhas Ferramentas (Tech Stack)
-
 <div align="center">
 
-  <h3>Linguagens e Engines</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
+## 🛠️ Minhas Ferramentas (Tech Stack)
 
-  <h3>Design, Arte 3D/2D & IA</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" width="48" height="48" alt="Maya" /> <img src="https://cdn.simpleicons.org/autodesk/0696D7" width="48" height="48" alt="Mudbox" /> <img src="https://github.com/user-attachments/assets/3c73ce23-55c6-4027-b232-43f6900b7aaf" width="48" height="48" alt="Substance Painter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Photoshop" /> <img src="https://cdn.simpleicons.org/krita/205EA6" width="48" height="48" alt="Krita" /> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
+**Linguagens e Engines** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-  <h3>Web</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+<br>
 
-  <h3>IDEs e Versionamento</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="48" height="48" alt="Visual Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+**Design, Arte 3D/2D & IA** ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white) ![Mudbox](https://img.shields.io/badge/Mudbox-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance_Painter-E52B50?style=for-the-badge&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-205EA6?style=for-the-badge&logo=krita&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+<br>
+
+**Web** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br>
+
+**IDEs e Versionamento** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 📫 Onde me encontrar (Let's Connect)
 Bora trocar uma ideia sobre código, games ou oportunidades!
 
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/lucassgd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" /></a> <a href="https://lucassodev.itch.io/" target="_blank"><img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="48" height="48" alt="Itch.io" /></a> <a href="https://steamcommunity.com/id/souzajogos/" target="_blank"><img src="https://cdn.simpleicons.org/steam/000000" width="48" height="48" alt="Steam" /></a> <a href="https://www.youtube.com/@LucasSouza-fx9uq" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube" /></a> <a href="mailto:lucas.ss7@outlook.com"><img src="https://github.com/user-attachments/assets/ec0a1430-cf6e-420e-9426-3a4941e625c6" width="48" height="48" alt="Outlook" /></a> <a href="https://discordapp.com/users/souzajogos" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" /></a>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassgd/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucassodev.itch.io/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/souzajogos/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucasSouza-fx9uq) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lucas.ss7@outlook.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/souzajogos)
+
 </div>
