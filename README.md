@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🇺🇸 **Hey everyone!** Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with **C# and Unity**, building everything from action and zombie survival games to 2.5D simulators.
+  🇺🇸 Hey everyone! Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with C# and Unity, building everything from action and zombie survival games to 2.5D simulators.
 </p>
 
 ---
