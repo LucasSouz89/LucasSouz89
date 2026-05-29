@@ -72,4 +72,4 @@ Bora trocar uma ideia sobre código, games ou oportunidades!
 
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LucasSouz89&icon=0&color=0" alt="Profile Views"></a>
 </div><img width="2390" height="1792" alt="ImagemPerfil" src="https://github.com/user-attachments/assets/6b4f7081-e64f-46fe-898c-db03371f21de" />
-<img width="2390" height="1792" alt="ImagemPerfil" src="https://github.com/user-attachments/assets/2b8a3242-d03b-4be3-81c7-b2f5b30b9170" />
+
