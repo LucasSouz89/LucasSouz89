@@ -45,6 +45,22 @@
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=LucasSouz89&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=LucasSouz89&theme=dark&hide_border=false" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LucasSouz89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📫 Onde me encontrar (Let's Connect)
 Bora trocar uma ideia sobre código, games ou oportunidades!
 
@@ -52,4 +68,7 @@ Bora trocar uma ideia sobre código, games ou oportunidades!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassgd/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucassodev.itch.io/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/souzajogos/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucasSouza-fx9uq) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lucas.ss57@outlook.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/souzajogos)
 
+<br><br>
+
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LucasSouz89&icon=0&color=0" alt="Profile Views"></a>
 </div>
