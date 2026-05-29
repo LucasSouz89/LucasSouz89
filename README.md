@@ -1,10 +1,18 @@
-# Fala, pessoal! Sou o Lucas 👋
+<p align="center">
+  <imgsrc="https://github.com/user-attachments/assets/e649f2e6-7c39-4ff1-b8aa-7c721300df9c" width="200" alt="Cartoon Avatar - Lucas" />
+</p>
 
-### Desenvolvedor de Jogos | C# | Unity | Unreal | FIAP
+<h1 align="center">Fala, pessoal! Sou o Lucas 👋</h1>
 
-🇧🇷 Bem-vindos ao meu GitHub! Sou um desenvolvedor apaixonado por criar jogos e resolver problemas com código. Sou formado em Jogos Digitais pela FIAP e passo a maior parte do meu tempo botando a mão na massa com **C# e Unity**, criando desde jogos de combate e sobrevivência zumbi até simuladores 2.5D. 
+<h3 align="center">Desenvolvedor de Jogos | C# | Unity | Unreal | FIAP</h3>
 
-🇺🇸 **Hey everyone!** Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with **C# and Unity**, building everything from action and zombie survival games to 2.5D simulators.
+<p align="center">
+  🇧🇷 Bem-vindos ao meu GitHub! Sou um desenvolvedor apaixonado por criar jogos e resolver problemas com código. Sou formado em Jogos Digitais pela FIAP e passo a maior parte do meu tempo botando a mão na massa com **C# e Unity**, criando desde jogos de combate e sobrevivência zumbi até simuladores 2.5D.
+</p>
+
+<p align="center">
+  🇺🇸 **Hey everyone!** Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with **C# and Unity**, building everything from action and zombie survival games to 2.5D simulators.
+</p>
 
 ---
 
@@ -71,5 +79,4 @@ Bora trocar uma ideia sobre código, games ou oportunidades!
 <br><br>
 
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LucasSouz89&icon=0&color=0" alt="Profile Views"></a>
-</div><img width="2390" height="1792" alt="ImagemPerfil" src="https://github.com/user-attachments/assets/6b4f7081-e64f-46fe-898c-db03371f21de" />
-
+</div>
