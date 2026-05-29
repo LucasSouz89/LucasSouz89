@@ -1,4 +1,5 @@
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/19157740-7d57-40fa-ada4-b324848c0a7d" />
+<img width="2390" height="1792" alt="Gemini_Generated_Image_thanqxthanqxthan(1)(1)" src="https://github.com/user-attachments/assets/e649f2e6-7c39-4ff1-b8aa-7c721300df9c" />
+
 
 # Fala, pessoal! Sou o Lucas 👋
 
