@@ -1,3 +1,5 @@
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/19157740-7d57-40fa-ada4-b324848c0a7d" />
+
 # Fala, pessoal! Sou o Lucas 👋
 
 ### Desenvolvedor de Jogos | C# | Unity | Unreal | FIAP
