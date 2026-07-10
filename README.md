@@ -1,5 +1,5 @@
 <p align="center">
-  <imgsrc="https://github.com/user-attachments/assets/e649f2e6-7c39-4ff1-b8aa-7c721300df9c" width="200" alt="Cartoon Avatar - Lucas" />
+  <img src="https://github.com/user-attachments/assets/e649f2e6-7c39-4ff1-b8aa-7c721300df9c" width="200" alt="Cartoon Avatar - Lucas" />
 </p>
 
 <h1 align="center">Fala, pessoal! Sou o Lucas 👋</h1>
@@ -20,7 +20,7 @@
 
 - 🎓 **Formação:** Tecnólogo em Jogos Digitais pela FIAP (Concluído no final de 2025).
 - 💻 **Foco atual:** Criando e publicando jogos indie e aprimorando minha lógica de programação com C#.
-- 🚀 **Subindo de nível:** Estudando **C#**, mexendo um pouco com front-end (HTML/CSS) e começando a olhar para Banco de Dados.
+- 🚀 **Subindo de nível:** Estudando C#, explorando front-end e aplicando SQL para modelagem e análise de dados.
 - 🕹️ **Meus Jogos:** Todos os meus projetos jogáveis estão lá no meu [Itch.io](https://lucassodev.itch.io/)!
 
 ---
@@ -31,6 +31,11 @@
 
 **Linguagens e Engines**<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+<br><br>
+
+**Banco de Dados (Databases)**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PopSQL](https://img.shields.io/badge/PopSQL-3A86FF?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br><br>
 
