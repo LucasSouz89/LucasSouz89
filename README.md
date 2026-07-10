@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e649f2e6-7c39-4ff1-b8aa-7c721300df9c" width="200" alt="Cartoon Avatar - Lucas" />
-</p>
+
 
 <h1 align="center">Fala, pessoal! Sou o Lucas 👋</h1>
 
