@@ -1,59 +1,64 @@
-<h1 align="center">Olá, sou o Lucas 👋</h1>
 
-<h3 align="center">Desenvolvedor de Jogos | C# | Unity | Unreal Engine</h3>
+
+<h1 align="center">Fala, pessoal! Sou o Lucas 👋</h1>
+
+<h3 align="center">Desenvolvedor de Jogos | C# | Unity | Unreal | FIAP</h3>
 
 <p align="center">
-  🇧🇷 Desenvolvedor formado em Jogos Digitais pela FIAP, com foco em <b>C# e Unity</b>. Tenho experiência criando projetos que vão de jogos de ação e sobrevivência a simuladores 2.5D, e atualmente estou expandindo minha atuação para back-end e banco de dados.
+  🇧🇷 Bem-vindos ao meu GitHub! Sou um desenvolvedor apaixonado por criar jogos e resolver problemas com código. Sou formado em Jogos Digitais pela FIAP e passo a maior parte do meu tempo botando a mão na massa com **C# e Unity**, criando desde jogos de combate e sobrevivência zumbi até simuladores 2.5D.
 </p>
 
 <p align="center">
-  🇺🇸 Game developer with a degree in Digital Games from FIAP, focused on <b>C# and Unity</b>. I've built projects ranging from action and survival games to 2.5D simulators, and I'm currently expanding into back-end development and databases.
-</p>
-
-<p align="center">
-  <a href="https://lucassodev.itch.io/">Itch.io</a> ·
-  <a href="https://www.linkedin.com/in/lucassgd/">LinkedIn</a> ·
-  <a href="mailto:lucas.ss57@outlook.com">Email</a>
+  🇺🇸 Hey everyone! Welcome to my GitHub. I'm a developer with a degree in Digital Games from FIAP. I love getting my hands dirty with C# and Unity, building everything from action and zombie survival games to 2.5D simulators.
 </p>
 
 ---
 
-## 👨‍💻 Sobre / About
+## 👨‍💻 O que eu ando fazendo (What I'm up to)
 
-- 🎓 **Formação:** Tecnólogo em Jogos Digitais — FIAP (concluído em 2025)
-- 💻 **Foco atual:** Desenvolvimento e publicação de jogos indie, com aprofundamento em lógica de programação em C#
-- 🚀 **Em estudo:** Front-end web e SQL aplicado a modelagem e análise de dados
-- 🕹️ **Projetos:** todos os jogos publicados estão disponíveis no meu [Itch.io](https://lucassodev.itch.io/)
+- 🎓 **Formação:** Tecnólogo em Jogos Digitais pela FIAP (Concluído no final de 2025).
+- 💻 **Foco atual:** Criando e publicando jogos indie e aprimorando minha lógica de programação com C#.
+- 🚀 **Subindo de nível:** Estudando C#, explorando front-end e aplicando SQL para modelagem e análise de dados.
+- 🕹️ **Meus Jogos:** Todos os meus projetos jogáveis estão lá no meu [Itch.io](https://lucassodev.itch.io/)!
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Linguagens & Engines**
+## 🛠️ Minhas Ferramentas (Tech Stack)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+**Linguagens e Engines**<br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-**Banco de Dados**
+<br><br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Banco de Dados (Databases)**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PopSQL](https://img.shields.io/badge/PopSQL-3A86FF?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web**
+<br><br>
 
+**Design, Arte 3D/2D & IA**<br>
+![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white) ![Mudbox](https://img.shields.io/badge/Mudbox-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance_Painter-E52B50?style=for-the-badge&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-205EA6?style=for-the-badge&logo=krita&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+<br><br>
+
+**Web**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Arte 3D/2D & Design**
+<br><br>
 
-![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance_Painter-E52B50?style=for-the-badge&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-205EA6?style=for-the-badge&logo=krita&logoColor=white)
-
-**Ferramentas & Versionamento**
-
+**IDEs e Versionamento**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<br>
 
 <img src="https://github-readme-stats.shion.dev/api?username=LucasSouz89&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 <br>
@@ -65,14 +70,16 @@
 
 ---
 
-## 📫 Contato
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassgd/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucassodev.itch.io/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/souzajogos/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucasSouza-fx9uq) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lucas.ss57@outlook.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/souzajogos)
+## 📫 Onde me encontrar (Let's Connect)
+Bora trocar uma ideia sobre código, games ou oportunidades!
 
 <br>
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LucasSouz89&icon=0&color=0" alt="Profile Views"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassgd/) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucassodev.itch.io/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/souzajogos/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucasSouza-fx9uq) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lucas.ss57@outlook.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/souzajogos)
 
+<br><br>
+
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=LucasSouz89&icon=0&color=0" alt="Profile Views"></a>
 </div>
